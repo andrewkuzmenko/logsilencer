@@ -19,5 +19,8 @@
   "homepage": "https://github.com/andrewkuzmenko/logsilencer#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
   }
 }
